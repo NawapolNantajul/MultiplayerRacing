@@ -67,8 +67,8 @@ MonoBehaviour:
     y: 0
     width: 740
     height: 578
-  m_MinSize: {x: 50, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 50, y: 76}
+  m_MaxSize: {x: 4000, y: 4026}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -401,8 +401,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Multiplayer Play Mode\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 218
-    y: 446
+    x: 0
+    y: 26
     width: 740
     height: 552
   m_SerializedDataModeController:
@@ -437,8 +437,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1191
-    y: 79
+    x: 1192
+    y: 24
     width: 310
     height: 907
   m_SerializedDataModeController:
@@ -482,7 +482,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 29}
     m_SelectedIDs: ec310100
     m_LastClickedID: 78316
-    m_ExpandedIDs: 00000000ec31010000ca9a3bffffff7f
+    m_ExpandedIDs: 000000006ce80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -511,7 +511,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 000000006ce80000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -590,8 +590,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1503
-    y: 79
+    x: 1504
+    y: 24
     width: 416
     height: 907
   m_SerializedDataModeController:
@@ -640,7 +640,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 79
+    y: 24
     width: 337
     height: 549
   m_SerializedDataModeController:
@@ -705,8 +705,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 338
-    y: 79
+    x: 339
+    y: 24
     width: 851
     height: 549
   m_SerializedDataModeController:
@@ -1555,7 +1555,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 654
+    y: 599
     width: 1190
     height: 332
   m_SerializedDataModeController:
