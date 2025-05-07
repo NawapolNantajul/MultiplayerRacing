@@ -242,3 +242,9 @@
 *.rar lfs
 
 *.tar lfs
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
